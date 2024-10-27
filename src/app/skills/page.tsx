@@ -66,7 +66,7 @@ const Skills: React.FC = () => {
   ];
 
   return (
-    <div id="skill" className="space-y-8 m-10 mx-16 text-white">
+    <div id="skill" className="space-y-8 m-4 mt-5 md:m-10 md:mx-16 text-white">
       {/* Front-End Development Section */}
       <div>
         <h2 className="text-3xl font-bold text-center">Front-End Development</h2>
