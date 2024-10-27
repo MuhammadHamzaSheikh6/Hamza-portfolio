@@ -61,7 +61,7 @@ const Skills: React.FC = () => {
   ];
 
   const tools: Skill[] = [
-    { logo: '/logo/figma.png', name: 'Figma', description: 'Turning design concepts into pixel-perfect web interfaces.' },
+    { logo: '/logo/Figma.png', name: 'Figma', description: 'Turning design concepts into pixel-perfect web interfaces.' },
     { logo: '/logo/Git.png', name: 'Git', description: 'Managing version control and collaboration in software development.' },
   ];
 
